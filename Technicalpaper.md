@@ -58,7 +58,7 @@ Based on overall ease of use, features, scalability, and popularity, here is the
 
 - Mature and powerful with advanced enterprise features.  
 - Suitable for complex full-text search needs and large-scale deployments.  
-- Slightly more complex to set up than Elasticsearch but very customizable.  
+- Slightly more complex to set up than Elasticsearch, but very customizable.  
 
 ### **Lucene**
 
@@ -72,4 +72,14 @@ Based on overall ease of use, features, scalability, and popularity, here is the
 
 - **Solr** is a solid option if you require advanced enterprise features and have the expertise to manage cluster coordination manually for scalability. It provides reliable performance but may require more tuning.  
 
-- **Lucene** alone is not recommended unless you have resources to develop and maintain a custom search solution, as it lacks the out-of-the-box infrastructure for scalability.  
+- **Lucene** alone is not recommended unless you have resources to develop and maintain a custom search solution, as it lacks the out-of-the-box infrastructure for scalability.
+
+  ## **Refrences**
+
+- [Apache Lucene – Wikipedia](https://en.wikipedia.org/wiki/Apache_Lucene)  
+- [Apache Solr – Wikipedia](https://en.wikipedia.org/wiki/Apache_Solr)  
+- [Elasticsearch – Wikipedia](https://en.wikipedia.org/wiki/Elasticsearch)  
+- [Apache Solr – Reference Guide](https://solr.apache.org/guide/)  
+- [Elasticsearch – Official Site](https://www.elastic.co/elasticsearch)  
+- [Apache Lucene – Official Site](https://lucene.apache.org/core/)
+- [Google](https://www.google.com)  
