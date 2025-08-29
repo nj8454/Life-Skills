@@ -1,3 +1,5 @@
+# Grit and Growth Mindset
+
 ### Paraphrase (summarize) the video in a few (1 or 2) lines
 
 embracing grit means staying committed and passionate about long-term goals—even when things get tough—while viewing failures as chances to grow, learn, and keep trying new approaches until success is achieved.
