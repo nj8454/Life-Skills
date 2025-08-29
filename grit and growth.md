@@ -27,10 +27,6 @@ The internal locus of control is crucial for staying motivated, because people w
 - Question your assumptions.
 - Create your own curriculum for growth.
 - Honor the struggle.
-- Welcome challenges instead of avoiding them. - Dive into difficult problems or new technologies even if they seem intimidating. That’s where real growth happens.
-- View mistakes and bugs as opportunities to learn. - Instead of getting frustrated, ask yourself what you can take away from each error.
-- Be open to feedback and use it to improve. - Seek honest code reviews and constructive criticism—it’s one of the fastest ways to get better.
-- Keep your curiosity alive. - Explore new languages, tools, and frameworks regularly to keep expanding your skill set.
 
 ### What are your ideas to take action and build a Growth Mindset?
 
